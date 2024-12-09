@@ -1,24 +1,24 @@
 
-<h1 align="center">👋 Hello, I'm Lưu Hoàng Nam!</h1>
-<h3 align="center">A Passionate Developer from Gia Lai, Vietnam</h3>
+# 🌟 **Xin chào! Tôi là Lưu Hoàng Nam**  
+
+👋 **Hello everyone!**  
+Tôi đến từ Gia Lai, Việt Nam, và luôn có niềm đam mê khám phá công nghệ và lập trình. Chào mừng bạn đến với hồ sơ GitHub của tôi!  
 
 ---
 
+## 👀 **Đôi nét về tôi**
+
+- 🌱 **Hiện tại đang học:** Lập trình ứng dụng di động với **Flutter**, công nghệ web với **Spring Boot**, và phát triển hệ thống backend.  
+- 💼 **Mong muốn hợp tác:** Với các dự án thú vị liên quan đến phát triển ứng dụng di động, web, hoặc AI/ML.  
+- 😄 **Sở thích:**  Tôi rất thíc đi du lịch, khám phá các nơi chưa từng đặt chân đến
+- ⚡ **Fun fact:** Tôi thích vừa code vừa nghe nhạc 🎵 và đôi khi chơi game để giải trí 🎮.  
+ 
+
+---
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lhnam2002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=lhnam2002&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="170" />
 </p>
-
----
-
-### 📝 **About Me**
-- 👀 I’m interested in mobile app development, web technologies, and AI/ML.  
-- 🌱 I’m currently mastering **Flutter** and **Spring Boot**.  
-- 💞️ Looking to collaborate on innovative projects that make a difference.  
-- 😄 Pronouns: He/Him.  
-- ⚡ Fun Fact: I enjoy coding with music 🎵 and gaming 🎮 during my free time.  
-
----
 
 ### 💻 **Tech Stack**
 
