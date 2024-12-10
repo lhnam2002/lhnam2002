@@ -22,6 +22,10 @@ Tôi đến từ Gia Lai, Việt Nam, và luôn có niềm đam mê khám phá c
 
 ## 💻 Tech Stack:
 
+<table>
+<tr>
+<td style="width: 70%;">
+
 ### 🔹 Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
@@ -50,6 +54,13 @@ Tôi đến từ Gia Lai, Việt Nam, và luôn có niềm đam mê khám phá c
 ### 🔹 Design Tools:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)  
+
+</td>
+<td style="width: 30%; text-align: center;">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" style="width: 100%; border-radius: 10px;">
+</td>
+</tr>
+</table>
 
 ---
 
