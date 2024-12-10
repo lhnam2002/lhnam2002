@@ -65,4 +65,8 @@ You can reach me via:
 ---
 
 <p align="center">✨ Proudly created with ❤️ and GitHub ✨</p>
+[![](https://visitcount.itsvg.in/api?id=lhnam2002&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=lhnam2002&label=Profile%20Views&pretty=false" />
+</a>
 
