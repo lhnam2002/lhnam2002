@@ -9,8 +9,8 @@ Tôi đến từ Gia Lai, Việt Nam, và luôn có niềm đam mê khám phá c
 ## 👀 **Đôi nét về tôi**
 
 - 🌱 **Hiện tại đang học:** Lập trình ứng dụng di động với **Flutter**, công nghệ web với **Spring Boot**, và phát triển hệ thống backend.  
-- 💼 **Mong muốn hợp tác:** Với các dự án thú vị liên quan đến phát triển ứng dụng di động, web, hoặc AI/ML.  
-- 😄 **Sở thích:**  Tôi rất thíc đi du lịch, khám phá các nơi chưa từng đặt chân đến
+- 💼 **Mong muốn hợp tác:** Với các dự án thú vị liên quan đến phát triển ứng dụng di động, web.  
+- 😄 **Sở thích:**  Tôi rất thích đi du lịch, khám phá các nơi chưa từng đặt chân đến
 - ⚡ **Fun fact:** Tôi thích vừa code vừa nghe nhạc 🎵 và đôi khi chơi game để giải trí 🎮.  
  
 
