@@ -56,8 +56,9 @@ Tôi đến từ Gia Lai, Việt Nam, và luôn có niềm đam mê khám phá c
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)  
 
 </td>
-<td style="width: 30%; text-align: center;">
-<img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9zendod3I1cDJ3NTFjYnowNDBycmlxM2x1cGFtNnNzeGQ1emVvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.jpg] style="width: 100%; border-radius: 10px;">
+<td style="width: 40%; vertical-align: top;">
+        <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9zendod3I1cDJ3NTFjYnowNDBycmlxM2x1cGFtNnNzeGQ1emVvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="Coding GIF" style="width: 90%; border-radius: 10px;">
+      </td>
 </td>
 </tr>
 </table>
