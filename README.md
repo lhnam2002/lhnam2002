@@ -57,7 +57,7 @@ Tôi đến từ Gia Lai, Việt Nam, và luôn có niềm đam mê khám phá c
 
 </td>
 <td style="width: 30%; text-align: center;">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" style="width: 100%; border-radius: 10px;">
+<img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFzMmV3N29qODc1bjViZDZkNGJwZ3lyMTBvZWNrbWRiazVoZGdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" alt="Coding GIF" style="width: 100%; border-radius: 10px;">
 </td>
 </tr>
 </table>
